@@ -1,0 +1,8 @@
+app:
+  name: Praveen Sagar - Swagger and Profiles Tutorial
+server:
+  port: 8080
+
+
+spring:
+  profile-testing-key: techinterface - uat profile is set .

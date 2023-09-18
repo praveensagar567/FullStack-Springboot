@@ -1,0 +1,7 @@
+app:
+  name: Praveen Sagar - Swagger and Profiles Tutorial
+
+
+
+spring:
+  profile-testing-key: techinterface - no profiles set  .
